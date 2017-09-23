@@ -1,21 +1,26 @@
 ---
-author: James Fallon
-description: 'James Fallon Oxford Physics - homepage'
-title: James Fallon Oxford Physics
+title: 'James Fallon'
 ---
 
-Contact: james.fallon\[at\]stcatz.ox.ac.uk
+-   [Home](/)
+-   [About](/about)
+-   [Blog](/blog)
 
-about
------
+<div class="container">
 
--   Physics Undergraduate, St Catherine's College Oxford
+<div class="blurb">
 
-merlin
+Hi there, I'm James!
+====================
+-   Physics Undergraduate
+
+MERLIN
 ------
 
--   [Official github page](https://github.com/MERLIN-Collaboration)
+-   [Official MERLIN GitHub page](https://github.com/MERLIN-Collaboration)
 -   [My testing branch](https://github.com/jfallon1997/merlin-cmake-b)
--   [HTML Merlin Documentation (work in progress, doxygen)](
-http://users.ox.ac.uk/~scat6524/merlin-doxygen/html)
 
+
+</div>
+
+</div>
